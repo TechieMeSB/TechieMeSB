@@ -9,17 +9,17 @@
 #### :boom: SQL
 #### :boom: HTML,CSS,JavaScrpt
 
-### My other Skills :star2:
+### :star2: My other Skills :star2:
 #### :dizzy: Data analysis and Visualization With Numpy,Pandas,Matplotlib and Seaborn
 #### :dizzy: Android App Development with Kotlin and XML
 
-### :hibiscus: Presently Learning 
+### :star2: Presently Learning :star2:
 #### :hole: Machine Learning
 #### :hole:  Django and Flask Framework
 
-### :hibiscus:  I spend my :alarm_clock: trying to learn new things
-### :hibiscus: I like to code in Python: 5  :star: HackerRank
+### :star2:  I spend my :alarm_clock: trying to learn new things :star2:
+### :star2: I like to code in Python: 5  :star: HackerRank         
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SriB10)
 
-![counter](https://github.com/SriB10.m.pipedream.net) :eyes:
+![counter](https://enslr9ux88akerd.m.pipedream.net) :eyes:
