@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello World :wave: :earth_asia:
+## Welcome to my Github Account :innocent:
 
-<!--
-**SriB10/SriB10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Srishti, CSE Student graduating in year 2022 
+### I am Enthusiastic Learner and skilled to code in
+#### :boom: Python
+#### :boom: Java
+#### :boom: C
+#### :boom: SQL
+#### HTML,CSS,JavaScrpt
 
-Here are some ideas to get you started:
+### My other Skills :star2:
+#### :dizzy: Data analysis and Visualization With Numpy,Pandas,Matplotlib and Seaborn
+#### :dizzy: Android App Development with Kotlin and XML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :hibiscus: Presently Learning 
+#### Machine Learning
+#### Django and Flask Framework
+
+### I spend my :alarm_clock: trying to learn new things
+### I like to code in Python: 5  :star: HackerRank
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=SriB10)
+
+![counter](https://[YourEndpoint].m.pipedream.net)
