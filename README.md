@@ -23,10 +23,10 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SriB10&show_icons=true&theme=algolia)
 *** 
 
-<center> ![counter](https://enslr9ux88akerd.m.pipedream.net) :eyes: </center>
+![counter](https://enslr9ux88akerd.m.pipedream.net) :eyes: 
 
 ***
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SriB10&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SriB10&layout=compact&theme=algolia)
 ***
 
 
