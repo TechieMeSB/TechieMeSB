@@ -1,7 +1,7 @@
 # Hello World :wave: :earth_asia:
 ## Welcome to my Github Account :innocent:
 
-### I am Srishti, CSE Student graduating in year 2022 
+### I am Srishti B, CSE Student at SJEC graduating in year 2022 
 ### I am Enthusiastic Learner and skilled to code in
 #### :boom: Python
 #### :boom: Java
