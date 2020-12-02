@@ -20,13 +20,13 @@
 ### :star2:  I spend my :alarm_clock: trying to learn new things :star2:
 ### :star2: I like to code in Python: 5  :star: HackerRank         
 ***
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SriB10&show_icons=true&theme=algolia)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TechieMeSB&show_icons=true&theme=algolia)
 *** 
 
 ![counter](https://enslr9ux88akerd.m.pipedream.net) :eyes: 
 
 ***
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SriB10&layout=compact&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechieMeSB&layout=compact&theme=algolia)
 ***
 
 
